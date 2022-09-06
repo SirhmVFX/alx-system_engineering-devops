@@ -4,3 +4,6 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
+[master 1a0b48d] count that word
+ 1 file changed, 4 insertions(+)
+ mode change 100644 => 100755 0x02-shell_redirections/15-countthatword
