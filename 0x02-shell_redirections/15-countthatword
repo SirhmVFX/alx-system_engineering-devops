@@ -9,3 +9,5 @@ nothing to commit, working tree clean
  mode change 100644 => 100755 0x02-shell_redirections/15-countthatword
 [master b7dbcbe] count that word
  2 files changed, 4 insertions(+), 1 deletion(-)
+[master e2fe9f0] count that word
+ 2 files changed, 3 insertions(+), 1 deletion(-)
